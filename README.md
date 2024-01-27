@@ -1,5 +1,5 @@
 # Podcast 7
-<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Logo.png" width="200" height="150">
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Logo.png" width="150" height="200">
 Podcast 7 is an application built using Java Spring Boot that allows users to record and log in, add podcasts, and add episodes to each podcast based on their permissions for adding and modifying content. Additionally, it provides various other features, including playback functionality.
 
 ## Features
