@@ -4,12 +4,12 @@
 ###### Podcast 7 is an application built using Java Spring Boot that allows users to record and log in, add podcasts, and add episodes to each podcast based on their permissions for adding and modifying content. Additionally, it provides various other features, including playback functionality.
 
 ## Features
-###### 1- User Registration and Authentication: Users can create accounts and securely log in to the application.
-###### 2- Podcast Management: Users can create and manage podcasts, including adding titles, descriptions, and cover images.
-###### 3- Episode Management: Users with appropriate permissions can add episodes to their podcasts, including titles, descriptions, and audio files.
-###### 4- Playback: Users can listen to episodes directly within the application.
-###### 5- Permissions System: Different levels of permissions are available for users, allowing control over adding, modifying, and deleting podcasts and episodes.
-###### 6- User Profiles: Users have personalized profiles where they can view and manage their podcasts and episodes.
+###### • User Registration and Authentication: Users can create accounts and securely log in to the application.
+###### • Podcast Management: Users can create and manage podcasts, including adding titles, descriptions, and cover images.
+###### • Episode Management: Users with appropriate permissions can add episodes to their podcasts, including titles, descriptions, and audio files.
+###### • Playback: Users can listen to episodes directly within the application.
+###### • Permissions System: Different levels of permissions are available for users, allowing control over adding, modifying, and deleting podcasts and episodes.
+###### • User Profiles: Users have personalized profiles where they can view and manage their podcasts and episodes.
 
 ## Getting Started
 ###### To get started with Podcast 7, follow these steps:
