@@ -14,7 +14,7 @@
 ## Getting Started
 ###### To get started with Podcast 7, follow these steps:
 
-###### 1- Clone the repository: git clone https://github.com/your-username/podcast-7.git
+###### 1- Clone the repository: [git clone https://github.com/your-username/podcast-7.git](https://github.com/MohamedAmineHammi/Podcast-7)
 ###### 2- Install the necessary dependencies (provide instructions if any specific dependencies are required).
 ###### 3- Configure the application by updating the database connection details and any other relevant settings.
 ###### 4- Build and run the application locally.
