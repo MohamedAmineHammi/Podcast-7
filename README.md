@@ -45,3 +45,6 @@
 
 #### VIII - Show Podcast :
 <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Show%20Podcast.png" width="350" height="200"> 
+
+#### VIII - Show and Listen to an Episode :
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Show%20and%20Listen%20to%20Episode.png" width="350" height="200"> 
