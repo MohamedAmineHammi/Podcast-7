@@ -28,4 +28,7 @@
 #### II - Home Page :
 <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Home%20Page%201.png" width="350" height="200"> 
 
+#### III - Podcasts Playlist Available :
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Home%20Page%202.png" width="350" height="200"> 
+
 
