@@ -22,6 +22,7 @@
 ###### 6- For detailed instructions on setting up and running the application, please refer to the Installation Guide.
 
 ## Screenshots
-#### LogIn And ReGistration Page :
-<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Login%20And%20Registration%20Page.png" width="350" height="200">
+#### Login And Registration Page :
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Login%20And%20Registration%20Page.png" width="350" height="200"> <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Login%20And%20Registration%20Page.png" width="350" height="200">
+
 
