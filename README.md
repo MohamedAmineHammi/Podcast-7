@@ -25,4 +25,7 @@
 #### I - Login And Registration Page :
 <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Login%20And%20Registration%20Page.png" width="350" height="200"> <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Login%20And%20Registration.png" width="350" height="200">
 
+#### II - Home Page :
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Home%20Page%201.png" width="350" height="200"> 
+
 
