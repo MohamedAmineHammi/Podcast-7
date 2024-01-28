@@ -43,4 +43,5 @@
 #### VII - Editing Episode Form :
 <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Update%20Episode.png" width="350" height="200"> 
 
-
+#### VIII - Show Podcast :
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Show%20Podcast.png" width="350" height="200"> 
