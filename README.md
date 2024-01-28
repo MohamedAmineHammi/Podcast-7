@@ -40,4 +40,7 @@
 #### VI - Create New Episode Form :
 <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/New%20Episode.png" width="350" height="200"> 
 
+#### VII - Editing Episode Form :
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Update%20Episode.png" width="350" height="200"> 
+
 
