@@ -34,4 +34,7 @@
 #### IV - Create New Podcast Form :
 <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/New%20Podcast.png" width="350" height="200"> 
 
+#### V - Editing Podcast Form :
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Update%20Podcast.png" width="350" height="200"> 
+
 
