@@ -46,5 +46,11 @@
 #### VIII - Show Podcast :
 <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Show%20Podcast.png" width="350" height="200"> 
 
-#### VIII - Show and Listen to an Episode :
+#### IX - Show and Listen to an Episode :
 <img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Show%20and%20Listen%20to%20Episode.png" width="350" height="200"> 
+
+#### X - Show Other Users Podcasts :
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Other%20Users%20Podcast%20.png" width="350" height="200"> 
+
+#### XI - Show Other Users Podcasts Without Episodes:
+<img src="https://raw.githubusercontent.com/MohamedAmineHammi/Podcast-7/main/Materiel/Other%20Users%20Podcast%20-%20without%20episodes.png" width="350" height="200"> 
